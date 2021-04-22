@@ -1,6 +1,14 @@
 # news
 
-A new Flutter project.
+I used the API of NewsApi.org and the UI is very
+user-friendly developed in FLUTTER.
+    1:-  Users also see the news according to their
+    2:- category
+    3:- There are lots of categories of news.
+    4:-  Users also see the photo in the post box
+    
+
+You can also check the API https://newsapi.org/  .
 
 ## Getting Started
 
